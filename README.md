@@ -8,7 +8,7 @@
 ## LINK
 
 
-This is the link to my github pages
+This is the link to my github pages https://timorex.github.io/projects/
 
 
     
